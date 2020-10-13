@@ -27,7 +27,7 @@ You are requested to deliver a *tar.gz* archive containing:
 	 - Put the class template defined in `pacmanagent.py` into each file and fill in the `get_action` function.
 
 
-:warning: A penalty of **-2 points** on the final grade will be applied if the files are not named based on the instructions above.
+:warning: A penalty of **-2 points** on the final grade will be applied if the files are not named based on the instructions above or if the template is modified.
 
 ---
 
